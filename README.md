@@ -1,0 +1,4 @@
+Smite
+=====
+
+Smiting plugin
